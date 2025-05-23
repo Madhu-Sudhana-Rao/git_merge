@@ -1,1 +1,1 @@
-# git_merge
+# git_merge Adding developer a story
